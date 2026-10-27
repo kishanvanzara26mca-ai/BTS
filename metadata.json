@@ -1,0 +1,7 @@
+{
+  "name": "Black Tecno Shop",
+  "description": "Black Tecno Shop – Shop Smart. Order Easy. Official WhatsApp and Instagram e-commerce catalog featuring mobile phones, accessories, electronics, audio, smartwatches, and lifestyle gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
